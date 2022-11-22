@@ -13,9 +13,10 @@ I love Competitive Programming and Aero Modelling, and am always looking to lear
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wadekarprashant&label=Profile%20views&color=0e75b6&style=flat" alt="wadekarprashant" /> </p>
 
 - 🌱 I’m currently learning **Android Development**
-
+- 👨 My Hobbies are Cubing, Aero Modelling, Reading and Travelling
+- 🚀 I’m learning Data Structures, Algorithms and Web Development
+- 💬 Ask me about anything, I am happy to help !!
 - 📫 How to reach me **wadekarprashant735@gmail.com**
-
 - ⚡ Fun fact **I am funny 😅**
 
 <h3 align="left">Connect with me:</h3>
