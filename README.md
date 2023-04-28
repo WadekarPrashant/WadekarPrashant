@@ -10,7 +10,10 @@ I love Competitive Programming and Aero Modelling, and am always looking to lear
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wadekarprashant&label=Profile%20views&color=0e75b6&style=flat" alt="wadekarprashant" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=wadekarprashant&label=Profile%20views&color=0e75b6&style=flat" alt="wadekarprashant" /> 
+<!-- <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FWadekarPrashant"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWadekarPrashant&label=Visitors%3A%20&countColor=%23ba68c8&style=flat&labelStyle=none" /></a> -->
+</p>
 
 - 🌱 I’m currently learning **Android Development**
 - 👨 My Hobbies are Cubing, Aero Modelling, Reading and Travelling
