@@ -38,6 +38,6 @@ I love Competitive Programming and Aero Modelling, and am always looking to lear
 
 [![My Stats](https://github-readme-stats.vercel.app/api/top-langs?username=wadekarprashant&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Commits](https://github-readme-streak-stats.herokuapp.com/?user=wadekarprashant&theme=material-palenight)
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=WadekarPrashant&theme=material-palenight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=wadekarprashant&show_icons=true&theme=material-palenight&layout=compact)
