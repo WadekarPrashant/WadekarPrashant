@@ -43,4 +43,5 @@ I love Competitive Programming and Aero Modelling, and am always looking to lear
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wadekarprashant&show_icons=true&theme=material-palenight)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=wadekarprashant&show_icons=true&theme=material-palenight&layout=compact) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadekarprashant&size_weight=0.5&count_weight=0.5&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadekarprashant&size_weight=0.5&count_weight=0.5&theme=material-palenight)
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
