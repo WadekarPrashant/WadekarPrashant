@@ -40,9 +40,9 @@ I love Competitive Programming and Aero Modelling, and am always looking to lear
 
 ![Commits](https://github-readme-streak-stats.herokuapp.com/?user=WadekarPrashant&theme=material-palenight)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wadekarprashant&show_icons=true&theme=material-palenight) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wadekarprashant&show_icons=true&theme=material-palenight)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadekarprashant&show_icons=true&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadekarprashant&show_icons=true&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Snake animation](https://github.com/wadekarprashant/wadekarprashant/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=wadekarprashant&show_icons=true&theme=material-palenight&layout=compact) -->
