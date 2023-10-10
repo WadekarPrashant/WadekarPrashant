@@ -54,4 +54,5 @@ I love Competitive Programming and Aero Modelling, and am always looking to lear
 
 
 <!-- below is the holopin board  -->
+<!--   [![An image of @wadekarprashant's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wadekarprashant)](https://www.holopin.io/@wadekarprashant#) -->
 [![An image of @wadekarprashant's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wadekarprashant)](https://holopin.io/@wadekarprashant)
