@@ -5,9 +5,10 @@
 
 ### Glad to see you here! &nbsp; 
 
-I am a student at [MIT World Peace University](https://mitwpu.edu.in), Pune, India and am Currently doing B. Tech in Computer Science Engineering. 
+I am a student persueing B. Tech in Computer Science Engineering. 
 I love Competitive Programming and Aero Modelling, and am always looking to learn something new!
-
+<!-- I am a student at [MIT World Peace University](https://mitwpu.edu.in), Pune, India and am Currently doing B. Tech in Computer Science Engineering. -->
+<!-- I love Competitive Programming and Aero Modelling, and am always looking to learn something new! -->
 <!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"> -->
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
