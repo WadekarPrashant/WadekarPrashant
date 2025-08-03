@@ -30,9 +30,9 @@ I love Competitive Programming and Aero Modelling, and am always looking to lear
 <p align="left">
 <a href="https://dev.to/wadekarprashant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wadekarprashant" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prashantwadekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashantwadekar" height="30" width="40" /></a>
-<a href="https://instagram.com/prashant24.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prashant24.5" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prashantw_245" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prashantw_245" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/prashant_w245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prashant_w245" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/prashant24.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prashant24.5" height="30" width="40" /></a> -->
+<!-- <a href="https://www.codechef.com/users/prashantw_245" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prashantw_245" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/prashant_w245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prashant_w245" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
